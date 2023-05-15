@@ -1,0 +1,17 @@
+body
+{
+
+    background-color: rgb(54, 166, 166);
+}
+.container{
+    padding: 30px;
+
+    background-color: aqua;
+}
+.pratham{
+
+    border-radius: 599%;
+    border-width: 5cm;
+    border-top: 9ch;
+}
+
